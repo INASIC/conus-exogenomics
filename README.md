@@ -1,5 +1,7 @@
 # Conus Exogenomics
-This repository contains the Conus Exogenomics project currently being researched at the Marine Science Institute, at the University of the Philippines Diliman. 
+This repository contains the Conus Exogenomics project, currently being researched at the Marine Science Institute, at the University of the Philippines Diliman. 
+
+http://www.msi.upd.edu.ph
 
 //Describe why this project is important.//
 
