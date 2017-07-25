@@ -3,7 +3,7 @@ This repository contains files used by the Conus Exogenomics research group at t
 
 http://www.msi.upd.edu.ph
 
-// Describe why this project is important. //
+// describe the project, and its significance //
 
 # The Cone Snail
 
