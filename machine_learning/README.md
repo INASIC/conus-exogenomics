@@ -1,6 +1,6 @@
 # Algorithms to consider
 
-        ## Supervised methods
+## Supervised methods
 
 * Linear regression
 * Logistic regression
@@ -9,7 +9,7 @@
 * Neural networks
 * Support vector machines
 
-         ## Unsupervised methods
+## Unsupervised methods
 
 * Hierachical clustering
 * K-Means clustering
