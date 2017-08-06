@@ -4,6 +4,6 @@ Perhaps we can upload the group's reports, posters, presentations, etc. over her
 
 # Recommended Reading
 
-Here are some interesting research papers that illustrate the application of deep learning in the field of computational biology. Perhaps it will help us find inspiration for applications in our field of research in the conus group. 
+Here are some interesting research papers that illustrate the application of deep learning in the field of computational biology. Perhaps it will help us find inspiration for machine learning applications in our field of research in the conus group. 
 
 https://github.com/gokceneraslan/awesome-deepbio
