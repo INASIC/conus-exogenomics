@@ -1,4 +1,4 @@
-# Scikit-Learn Course
+# Scikit-Learn Workshops
 
 Here we will develop our knowledge of the popular machine learning library, Scikit-Learn. Our aim is to gain machine learning experience through these workshops, so that we can ultimately apply what we have learned on our personally curated [datasets](https://github.com/INASIC/conus-exogenomics/tree/master/machine_learning/datasets) within the conus exogenomics group. 
 
