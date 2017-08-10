@@ -1,3 +1,8 @@
+# Activities
+
+1. Use a regression algorithm to predict RMSD on Gino's dataset
+2. Use a classification algorithm to predict binding sites on Shade's dataset
+
 # Algorithms to consider
 
 ## Supervised methods
